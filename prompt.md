@@ -35,6 +35,13 @@ Generate a highly relevant, concise, and human-sounding cover letter.
 9. Tone must feel like a real engineer wrote it
 10. No buzzword stuffing
 11. Prioritize items from "SKILLS SNAPSHOT" when aligning with JD
+12. Avoid listing too many technologies in a single paragraph; prioritize clarity and readability over density
+13. Prefer concrete system behavior phrases (e.g., "under load", "concurrent usage", "real-world constraints") over abstract terms like "scalable systems"
+14. After generating the cover letter, perform ONE internal review pass:
+    - Check if all rules are followed
+    - Check alignment with the job description
+    - If issues are found, revise once
+    - Do NOT perform more than one revision pass
 
 ---
 

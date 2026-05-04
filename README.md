@@ -27,7 +27,7 @@ Instead of generating cover letters from scratch each time, this system:
 ├── resume.md        # Full resume + prioritized skills snapshot
 ├── jd.md            # Job description (replace for each application)
 ├── prompt.md        # Core logic (rules + adaptation strategy)
-├── output.md        # Final generated cover letter
+├── output_cover_letter.md        # Final generated cover letter
 └── README.md        # Documentation
 
 `````
@@ -60,11 +60,11 @@ jd.md
 
 ### Step 2 — Run the Prompt
 
-Copy and paste this into Copilot / ChatGPT:
+Copy and paste this into Copilot / Claude / any LLM:
 
 ```
 Read prompt.md, base_cover_letter.md, resume.md, and jd.md. 
-Generate the cover letter and write it to output.md. 
+Generate the cover letter and write it to output_cover_letter.md. 
 If something is not relevant, remove it instead of adapting it.
 ```
 
