@@ -25,6 +25,7 @@ Generate a highly relevant, concise, and human-sounding cover letter.
    - "I am passionate"
    - "I am excited"
    - "I believe I am a great fit"
+   - "—" & common AI generated signs
 3. Do NOT hallucinate experience
 4. Only use skills/experience present in resume.md or base_letter.md
 5. If something is not relevant → REMOVE it

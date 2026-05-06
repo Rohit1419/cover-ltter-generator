@@ -1,3 +1,5 @@
+# Cover Letter
+
 Rohit Gite  
 +91 7823846641  
 rohitgite03@gmail.com  
@@ -6,11 +8,11 @@ rohitgite03@gmail.com
 
 Dear Hiring Manager,
 
-I'm interested in contributing to Oracle's engineering team as an intern, particularly on systems that prioritize backend architecture and cloud-scale reliability. My recent work has focused on building production-grade systems with emphasis on API design, secure authentication, and performance under real-world constraints.
+I'm an AI Engineer with production experience building retrieval-augmented generation systems under real-world load. In my recent work, I architected a RAG pipeline using pg-vector that reduced context token usage by 80% through systematic optimization—chunking strategies, embedding selection, and reranking logic. I've shipped end-to-end LLM systems handling concurrent usage patterns, where observability and measurable quality drove every design decision.
 
-I architected a multi-tenant gateway with provider-agnostic OAuth2 integration, implementing secure credential handling and access control mechanisms. I've also optimized context pipelines for retrieval-augmented generation systems, reducing token overhead by 80% while maintaining reliability under high concurrency.
+My technical foundation spans Python with async patterns (FastAPI, production event handling), hands-on vector database experience, and infrastructure for stateless agent deployments. I designed secure credential handling and zero-trust validation at scale—the kinds of non-functional requirements that surface only in production systems. These constraints force clarity about latency, cost per request, and failure modes, which maps directly to the telemetry and observability work you're scoping.
 
-I'm drawn to roles where engineering depth and real-world system constraints matter. Oracle's focus on reliable, high-performance infrastructure aligns with how I approach problems—designing systems that remain robust as they scale. I'm ready to contribute to your team while learning from senior engineers on large-scale systems.
+I'm drawn to early-stage environments where engineering depth compounds impact. Operonn's focus on honest metrics, retrieval quality, and measurable ROI for real businesses resonates with how I approach systems. I'm ready to contribute to your retrieval and orchestration layers with the same rigor I've applied to production AI systems.
 
 Best regards,  
 Rohit Gite
